@@ -9,6 +9,10 @@ developed by Ben Lau and Yen Chen Ling
 - OpenCV3
 - Modified Version of Flappy Bird (https://github.com/sourabhv/FlapPyBird)
 
+# Instructions
+Aftering installing all dependencies for Python3, run using
+`python QFlappyBird.py`. Finished model should be loaded.
+
 # References
 TensorFlow Tutorial https://www.tensorflow.org/tutorials/mnist/pros/
 
